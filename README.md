@@ -57,9 +57,3 @@ The classification report provides detailed performance metrics like **Precision
 
 - **Random Forest Classifier** for model prediction.
 
-## **How to Run the Project**
-
-1. Clone this repository:
-```bash
-git clone https://github.com/Heart-Disease-Prediction-using-Random-Forest/heart-disease-prediction.git
-
